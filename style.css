@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-box{
+    width: 500px;
+    max-width: 100%;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #c0c0c0;
+}
+.center{
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+.form-group{
+    margin-bottom: 12px;
+}
+
+input{
+    width: 100%;
+    padding: 5px;
+    border-radius: 8px;
+    border: 1px solid #c0c0c0;
+}
+
+button{
+    padding: 5px 8px;
+    border-radius: 8px;
+    background-color: dodgerblue;
+    color: #fff;
+    border: 1px solid dodgerblue;
+}
